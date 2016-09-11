@@ -1,0 +1,23 @@
+{
+  "name": "flappernews",
+  "version": "1.0.0",
+  "description": "Reddit clone using MEAN stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manistoi/flapperNews.git"
+  },
+  "author": "Manuel Stoilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manistoi/flapperNews/issues"
+  },
+  "homepage": "https://github.com/Manistoi/flapperNews#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "mongodb": "^2.2.9"
+  }
+}
